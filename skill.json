@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-acoustic-efferent-olivocochlear-reflex-moc-skill",
+  "version": "1.0.0",
+  "description": "Calculates Medial Olivocochlear (MOC) efferent acoustic reflex suppression delta (dB) and cochlear outer hair cell damping under contralateral acoustic stimulation.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "audiology",
+    "olivocochlear",
+    "oae",
+    "hearing-protection",
+    "speech-in-noise",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
